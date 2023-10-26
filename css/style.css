@@ -1,0 +1,26 @@
+#login_window {
+	border:1px solid grey;
+	padding:10px;
+}
+
+#message {
+	padding:10px;
+}
+
+#records {
+	width:100%;
+	height:80%;
+	overflow-y:auto;
+
+}
+
+.hilite {
+	background-color:yellow;
+}
+
+#details {
+	width:100$;
+	height:40%;
+	overflow-y:auto;
+	border:1px solid lightgrey;
+}
